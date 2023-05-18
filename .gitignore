@@ -1,0 +1,12 @@
+
+target/
+.project
+.classpath
+.settings/
+*.idea
+*.iml
+
+*.log
+
+hs_err_pid*
+replay_pid*

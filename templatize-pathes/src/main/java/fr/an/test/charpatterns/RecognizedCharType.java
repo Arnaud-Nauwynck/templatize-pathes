@@ -1,4 +1,4 @@
-package fr.an.test;
+package fr.an.test.charpatterns;
 
 public enum RecognizedCharType {
 

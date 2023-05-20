@@ -1,4 +1,4 @@
-package fr.an.test;
+package fr.an.test.charpatterns;
 
 import org.junit.Assert;
 import org.junit.Test;

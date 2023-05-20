@@ -1,5 +1,7 @@
 package fr.an.test;
 
+import fr.an.test.charpatterns.RecognizedCharType;
+
 public class PathTemplatizer {
 
     public String templatize(String line) {
